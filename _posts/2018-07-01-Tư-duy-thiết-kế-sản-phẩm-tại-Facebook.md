@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Iư duy thiết kế sản phẩm tại Facebook"
+title:  "Tư duy thiết kế sản phẩm tại Facebook"
 author: "Trung Nguyen"
 ---
 
