@@ -1,12 +1,7 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          Trung Nguyen - Product Designer
+description:    "Trung Nguyen - Product Designer, Product Management, User Experience, User Interface"
 
-# Author
-author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
 
 # Build settings
 markdown:       kramdown
