@@ -4,31 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3b390d15-f163-4b9a-9f48-6c58af572111" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-07-01-Tư-duy-thiết-kế-sản-phẩm-tại-Facebook.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_base.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_catalogue.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_code.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_pagination.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_post.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_syntax.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sass/tale/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    <list default="true" id="3b390d15-f163-4b9a-9f48-6c58af572111" name="Changes" comment="initial 11ty setup">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,11 +67,24 @@
       <option name="presentableId" value="Default" />
       <updated>1741544456628</updated>
       <workItem from="1741544457715" duration="1314000" />
-      <workItem from="1745357882851" duration="308000" />
+      <workItem from="1745357882851" duration="1130000" />
     </task>
+    <task id="LOCAL-00001" summary="initial 11ty setup">
+      <option name="closed" value="true" />
+      <created>1745358248333</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745358248333</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial 11ty setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial 11ty setup" />
   </component>
 </project>
